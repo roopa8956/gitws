@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.icon-1 {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.toggler-1 {
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+
+}
+
+.button-1 {
+    padding: 10px;
+    color: #0c0521;
+    background-color: #FFDDA9;
+    border-radius: 25px;
+    width: 150px;
+    margin-bottom: 100px;
+}
+
+.main-1 {
+    color: #ffffff;
+    margin-bottom: 30px;
+    margin-top: 250px;
+}
+
+.para-1 {
+    color: #ffffff;
+}
+
+.text {
+    color: #FFDDA9;
+}
+
+.nav-color-2 {
+    background-color: #0c0521;
+
+}
